@@ -34,12 +34,12 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        url: '_ඒක අන්තරස්දහන් සහෝ_'
     }
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+bro'
+    url: 'https://wa.me/'+94762511600.split(";")[2]+'?text=Hey+bro'
     }
 }, {
     quickReplyButton: {

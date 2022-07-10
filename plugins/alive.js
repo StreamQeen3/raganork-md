@@ -34,7 +34,7 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: '_ඒක අන්තරස්දහන් සහෝ_'
+        url: 'https://github.com/StreamQeen3/raganork-md'
     }
 }, {
   urlButton: {
